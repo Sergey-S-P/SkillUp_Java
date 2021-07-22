@@ -1,4 +1,4 @@
-package com.skillup.classes;
+package com.skillup.classes.taskNumber4;
 
 public class Main {
     public static void main(String[] args) {
