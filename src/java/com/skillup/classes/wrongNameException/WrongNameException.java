@@ -1,4 +1,4 @@
-package com.skillup.classes.WrongNameException;
+package com.skillup.classes.wrongNameException;
 
 public class WrongNameException extends Exception{
     public WrongNameException(String message, int count) {
