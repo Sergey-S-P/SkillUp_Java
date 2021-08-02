@@ -2,7 +2,7 @@ package com.skillup.classes.dogsWithEnam;
 
 public class Dachshund extends Dogs{
 
-    public Dachshund(String coloring, int weight, boolean longHair) {
+    public Dachshund(DogColoring coloring, int weight, boolean longHair) {
         this.coloring = coloring;
         this.weight = weight;
         this.longHair = longHair;

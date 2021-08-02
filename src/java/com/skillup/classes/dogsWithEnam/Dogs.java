@@ -2,7 +2,7 @@ package com.skillup.classes.dogsWithEnam;
 
 public class Dogs {
 
-    String coloring;
+    DogColoring coloring;
     int weight;
     boolean longHair;
 
