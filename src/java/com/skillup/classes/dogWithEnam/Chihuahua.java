@@ -1,6 +1,6 @@
-package com.skillup.classes.dogsWithEnam;
+package com.skillup.classes.dogWithEnam;
 
-public class Chihuahua extends Dogs{
+public class Chihuahua extends Dog {
 
     public Chihuahua(DogColoring coloring, int weight, boolean longHair) {
         this.coloring = coloring;
@@ -8,7 +8,7 @@ public class Chihuahua extends Dogs{
         this.longHair = longHair;
     }
     @Override
-    public String dogsSey () {
+    public String dogSey () {
         return "TYAV-TYAV";
     }
 

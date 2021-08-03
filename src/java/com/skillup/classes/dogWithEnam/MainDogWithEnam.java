@@ -1,25 +1,25 @@
-package com.skillup.classes.dogsWithEnam;
+package com.skillup.classes.dogWithEnam;
 
-public class MainDogsWithEnam {
+public class MainDogWithEnam {
     public static void main (String[] args) {
 
         ZooShop zooShop = new ZooShop();
-        Dogs chita = zooShop.getDogFromZooShop(DogBreed.Chihuahua);
-        Dogs beti = zooShop.getDogFromZooShop(DogBreed.Labrador);
-        Dogs darsi = zooShop.getDogFromZooShop(DogBreed.Dachshund);
+        Dog chita = zooShop.getDogFromZooShop(DogBreed.CHIHUAHUA);
+        Dog beti = zooShop.getDogFromZooShop(DogBreed.LABRADOR);
+        Dog darsi = zooShop.getDogFromZooShop(DogBreed.DACHSHUND);
 
         System.out.println("This is Chita");
-        System.out.println(chita.dogsSey());
+        System.out.println(chita.dogSey());
         System.out.println(chita.toSwim());
         System.out.println(chita.climbDownHoleForFox());
 
         System.out.println("This is Beti");
-        System.out.println(beti.dogsSey());
+        System.out.println(beti.dogSey());
         System.out.println(beti.toSwim());
         System.out.println(beti.climbDownHoleForFox());
 
         System.out.println("This is Darsi");
-        System.out.println(darsi.dogsSey());
+        System.out.println(darsi.dogSey());
         System.out.println(darsi.toSwim());
         System.out.println(darsi.climbDownHoleForFox());
     }

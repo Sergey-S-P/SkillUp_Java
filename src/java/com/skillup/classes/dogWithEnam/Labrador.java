@@ -1,6 +1,6 @@
-package com.skillup.classes.dogsWithEnam;
+package com.skillup.classes.dogWithEnam;
 
-public class Labrador extends Dogs{
+public class Labrador extends Dog {
 
     public Labrador(DogColoring coloring, int weight, boolean longHair) {
         this.coloring = coloring;

@@ -1,12 +1,12 @@
-package com.skillup.classes.dogsWithEnam;
+package com.skillup.classes.dogWithEnam;
 
-public class Dogs {
+public class Dog {
 
     DogColoring coloring;
     int weight;
     boolean longHair;
 
-    public String dogsSey() {
+    public String dogSey() {
         return "GAV-GAV!";
     }
 
