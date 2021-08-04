@@ -4,5 +4,4 @@ public enum DogBreed {
     CHIHUAHUA,
     DACHSHUND,
     LABRADOR
-
 }
