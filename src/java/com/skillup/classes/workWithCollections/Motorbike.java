@@ -15,7 +15,7 @@ public class Motorbike {
     }
 
     public String takePassenger () {
-        return"Let's take a ride!";
+        return "Let's take a ride!";
     }
 }
 

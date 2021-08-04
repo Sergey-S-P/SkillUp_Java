@@ -22,6 +22,5 @@ public class Main {
         System.out.println(exc250.refuelGas());
         System.out.println(exc250.drive());
         System.out.println(exc250.takePassenger());
-
     }
 }

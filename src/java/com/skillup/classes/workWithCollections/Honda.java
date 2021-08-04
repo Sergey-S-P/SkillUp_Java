@@ -2,11 +2,11 @@ package com.skillup.classes.workWithCollections;
 
 public class Honda extends Motorbike{
 
-    ClassesBike str;
+    ClassesBike classesBike;
 
-    public Honda (ClassesBike str, String win, int numberCylinders, boolean injector) {
+    public Honda (ClassesBike classesBike, String win, int numberCylinders, boolean injector) {
 
-        this.str = str;
+        this.classesBike = classesBike;
         this.win = win;
         this.numberCylinders = numberCylinders;
         this.injector = injector;

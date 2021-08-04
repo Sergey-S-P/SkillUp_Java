@@ -2,15 +2,14 @@ package com.skillup.classes.workWithCollections;
 
 public class Ktm extends Motorbike{
 
-    ClassesBike kls;
+    ClassesBike classesBike;
 
-    public Ktm(ClassesBike kls, String win, int numberCylinders, boolean injector) {
-        this.kls = kls;
+    public Ktm(ClassesBike classesBik, String win, int numberCylinders, boolean injector) {
+        this.classesBike = classesBike;
         this.win = win;
         this.numberCylinders = numberCylinders;
         this.injector = injector;
     }
-
 
     @Override
     public String refuelGas() {
