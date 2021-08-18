@@ -1,4 +1,4 @@
-package com.skillup.classes.dogWithEnam;
+package com.skillup.classes.enam;
 
 public class Labrador extends Dog {
 

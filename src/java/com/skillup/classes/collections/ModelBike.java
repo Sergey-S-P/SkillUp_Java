@@ -1,4 +1,4 @@
-package com.skillup.classes.workWithCollections;
+package com.skillup.classes.collections;
 
 public enum ModelBike {
 

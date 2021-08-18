@@ -1,4 +1,4 @@
-package com.skillup.classes.workWithCollections;
+package com.skillup.classes.collections;
 
 import java.util.LinkedList;
 import java.util.List;

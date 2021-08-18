@@ -1,4 +1,4 @@
-package com.skillup.classes.wrongNameException;
+package com.skillup.classes.name_exception;
 
 public class MaineEx {
     public static void main(String[] args) {

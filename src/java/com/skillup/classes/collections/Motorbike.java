@@ -1,7 +1,4 @@
-package com.skillup.classes.workWithCollections;
-
-import java.util.LinkedList;
-import java.util.List;
+package com.skillup.classes.collections;
 
 public class Motorbike {
 
