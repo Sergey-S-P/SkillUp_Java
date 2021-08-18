@@ -1,4 +1,4 @@
-package com.skillup.classes.sortingAnArrayOfChar;
+package com.skillup.classes.sorting_char;
 
 import java.util.Arrays;
 
